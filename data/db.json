@@ -3,17 +3,17 @@
         {
             "id": 1,
             "checked": false,
-            "items": "Almonds, Unsalted, in the blue bag"
+            "item": "Almonds, Unsalted, in the blue bag"
         },
         {
             "id": 2,
             "checked": false,
-            "items": "Pizza"
+            "item": "Pizza"
         },
         {
-            "id": 1,
+            "id": 3,
             "checked": false,
-            "items": "Bread"
+            "item": "Bread"
         }
     ]
 }
